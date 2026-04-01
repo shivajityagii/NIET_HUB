@@ -69,10 +69,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-**Devesh Giri**
-- Email: er.deveshgiri@gmail.com
-- GitHub: [@erdeveshgiri](https://github.com/erdeveshgiri)
-- Project: [NIET-Hub](https://github.com/erdeveshgiri/NIET-Hub)
+**Shivaji Raj**
+- Email: shivajirajtyagi01@gmail.com
+- GitHub: [@shivajityagii]
+- Project: [NIET-Hub]
 
 ## 📝 License
 
@@ -90,4 +90,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-**© 2025 Devesh Giri. All rights reserved.**
+**© 2025 Shivaji Raj. All rights reserved.**
